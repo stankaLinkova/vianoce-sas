@@ -1,0 +1,39 @@
+
+.root {
+    display: flex;
+  }
+  
+  .main-components {
+    position: absolute;
+    width: 100%;
+  }
+  
+  /************************
+  HTML TAGS
+  ************************/
+  body {
+    background: #eddccd;
+    color: #866124;
+    margin: 0;
+    font-family: "Oxygen", sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+    margin-bottom: 1%;
+    color: #866124;
+    font-family: "Old Standard TT", sans-serif;
+  }
+  
+  
+  /* HOME COMPONENT */
+  .main {
+    left: 0;
+    margin-top: 3%;
+    width: 100%;
+  }
+
+  .end-rhyme {
+    margin-bottom: 2%;
+  }
