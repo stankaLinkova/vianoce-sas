@@ -15,7 +15,7 @@ function App() {
          <div className="main-components">
           <Routes>
             <Route path="/xcabiszk" element={<Home />} />
-            <Route path="*" element={<NotFound />} />
+            <Route path="/*" element={<NotFound />} />
           </Routes>
 
          </div>
